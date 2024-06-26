@@ -31,4 +31,7 @@ Insights for Strategic Planning: Insights to formulate targeted strategies to bo
 Recommendations: Data-driven recommendations to optimize bike availability, pricing strategies, and marketing efforts.
 Conclusion
 Through rigorous analysis using Multiple Linear Regression, BoomBikes aims to gain actionable insights into the dynamics of bike demand. This proactive approach will equip them with the necessary tools to navigate the current market challenges effectively and accelerate growth once economic conditions improve.
+<<<<<<< HEAD
 
+=======
+>>>>>>> cd6d9e3652b2729217bb3c8e27825052d1ab9f89
